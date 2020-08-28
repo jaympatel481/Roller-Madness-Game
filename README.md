@@ -1,0 +1,1 @@
+This is a final build of a Box Shooter game designed in Unity 2019.4.4f1LTS. The WebGL export might need you to run a local server through your terminal but the Standalone version should work just fine after downloading.
